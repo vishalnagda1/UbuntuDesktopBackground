@@ -1,6 +1,7 @@
 #!/bin/bash
-# Author : Vishal Nagda
+# Author : Vishal Nagda (Team ATOM)
 # Date : 25 May, 2016 23:20
+# Version UDB 0.1
 # Help For This File :
 # OPEN TERMINAL AND TYPE sudo -i AND NOW ENTER YOUR ACCOUNT PASSWORD.
 # NOW LOCATE THE DIRECOTRY THAT CONTAIN UDB.sh FILE.
